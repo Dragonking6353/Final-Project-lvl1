@@ -1,0 +1,12 @@
+body{background-color: rgb(161, 174, 9);text-align: center;}
+.manycountries{background-color: rgb(226, 163, 18);}
+header{height: 30px;width: 100%;background-color: darksalmon;border: solid 5px;padding-bottom: 50px;color:black ;background-image: url(https://3.bp.blogspot.com/-ZpZpX1LinU8/Y0GfXxodG8I/AAAAAAAA8Ew/vu2emhqYcW8L0aaCRNLcPI6kCDPIKHQMACNcBGAsYHQ/s1600/all_country_flags_with_names.jpg);}
+nav{background-color: darkolivegreen;border: solid 2px;height: 30px;padding-top: 5px;font-size: 20px;}
+p{font-size: 20px;}
+a{padding-left: 10px;color: black;}
+a:hover{color: white;}
+img{border: solid;border-width: 3px;}
+img:hover{opacity: 0.5;border: white 5px;}
+.flex-container{flex-wrap:wrap;justify-content: center;display: flex;align-items:center;background-color:  rgb(63, 220, 20);border: solid;height: 500px;width: 70%;border-radius: 35px;text-align: center;;}
+.flex-items{background-color: rgb(220, 20, 20);border: solid;height: 400px;width: 50%;border-radius: 35px;text-align: center;}
+.form{background-color: darkcyan;height: 500px;width: 500px;border: solid;border-radius: 35px;}
